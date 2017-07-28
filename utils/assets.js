@@ -182,6 +182,13 @@ const assets = [
     description: "",
     eli5: "",
     website: ""
+  },
+  {
+    name: "Counterparty",
+    symbol: "XCP",
+    color: "#eb1a54",
+    eli5: "",
+    website: ""
   }
 ];
 
